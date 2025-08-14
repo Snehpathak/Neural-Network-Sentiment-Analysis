@@ -1,7 +1,7 @@
 # Neural-Network-Sentiment-Analysis
 This project implements a sentiment analysis pipeline to classify text as positive or negative using both traditional machine learning (ML) models and a recurrent neural network (RNN). It includes data preprocessing, model training, evaluation, and a Streamlit-based user interface to compare model performance and make predictions.
 
-Project Structure
+ **Project Structure**
 
 
 
@@ -31,7 +31,7 @@ app.py: A Streamlit application to display validation metrics (accuracy and F1-s
 
 
 
-Setup and Usage
+**Setup and Usage**
 
 
 
